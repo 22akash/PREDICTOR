@@ -5,4 +5,4 @@ Steps to use :
 >>run the codes accordingly 
 >>Check the appropriate results by modifying the probabilities
 
-HOPE YOU ENJOYED THE MINI ML APPLICATION :) 
+HOPE YOU ENJOYED THE MACHINE LEARNING APPLICATION :) 
